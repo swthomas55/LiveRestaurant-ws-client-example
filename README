@@ -1,0 +1,9 @@
+A sample web service based on http://justcompiled.blogspot.com/2010/11/web-service-client-with-spring-ws.html
+
+Configured with Maven rather than Eclipse plugins.
+
+To run:
+
+mvn test
+
+Tests the LiveRestaurant service, which should be running already on port 8080.
